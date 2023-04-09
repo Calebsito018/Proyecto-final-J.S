@@ -1,0 +1,18 @@
+[
+    {"id": 1, "name": "prod", "precio": 1000, "cantidad": 1, "img": "../img/news/novedades-1.jpg"},
+    {"id": 2, "name": "prod", "precio": 1000, "cantidad": 1, "img": "../img/news/novedades-2.jpg"},
+    {"id": 3, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 4, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 5, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 6, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 7, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 8, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 9, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 10, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 11, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 12, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 13, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 14, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 15, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"},
+    {"id": 16, "name": "prod", "precio": 1000, "cantidad": 1, "img": "https://dummyimage.com/450x450/329fe3/fff"}
+]

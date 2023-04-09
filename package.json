@@ -1,0 +1,25 @@
+{
+  "name": "preentrega1arias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass sass/style.scss css/style.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calebsito018/-POINT-BLACK-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calebsito018/-POINT-BLACK-/issues"
+  },
+  "homepage": "https://github.com/Calebsito018/-POINT-BLACK-#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "sass": "^1.57.1"
+  }
+}
